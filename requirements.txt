@@ -11,4 +11,3 @@ omegaconf
 einops
 imageio
 ftfy
-xformers
